@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term SS18 WebFont 25.1.1
+# Unhinted Iosevka Term SS18 WebFont 26.0.2
 
 ## How to use
 
